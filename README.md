@@ -4,13 +4,15 @@ Descriptive Analytics and Data Preprocessing on Sales &amp; Discounts Dataset
 Introduction
 ●	To perform descriptive analytics, visualize data distributions, and preprocess the dataset for further analysis.
 Descriptive Analytics for Numerical Columns
+
 ●	Objective: To compute and analyze basic statistical measures for numerical columns in the dataset.
 ●	Steps:
 	Load the dataset into a data analysis tool or programming environment (e.g., Python with pandas library).
 	Identify numerical columns in the dataset.
 	Calculate the mean, median, mode, and standard deviation for these columns.
 	Provide a brief interpretation of these statistics.
-Data Visualization
+	
+# Data Visualization
 ●	Objective: To visualize the distribution and relationship of numerical and categorical variables in the dataset.
 ●	Histograms:
 	Plot histograms for each numerical column.
@@ -22,6 +24,7 @@ Data Visualization
 	Identify categorical columns in the dataset.
 	Create bar charts to visualize the frequency or count of each category.
 	Analyze the distribution of categories and provide insights.
+	
 Standardization of Numerical Variables
 ●	Objective: To scale numerical variables for uniformity, improving the dataset’s suitability for analytical models.
 ●	Steps:
